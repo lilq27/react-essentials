@@ -28,7 +28,7 @@ function App() {
       <Header />
       <main>
         <section id="core-concepts">
-          <h2>Time to get started!</h2>
+          <h2>Time to get started!!</h2>
           <ul>
             {/* {CORE_CONCEPTS.map((coreConcept) => (
               <CoreConcept
